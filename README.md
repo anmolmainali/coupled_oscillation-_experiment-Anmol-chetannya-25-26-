@@ -1,1 +1,0 @@
-# coupled_oscillation-_experiment-Anmol-chetannya-25-26-
