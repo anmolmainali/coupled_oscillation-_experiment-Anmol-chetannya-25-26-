@@ -1,5 +1,5 @@
 # coupled_oscillation-_experiment-Anmol-chetannya-25-26-
-**Video of the coupled oscilations experiment:
+## Video of the coupled oscilations experiment:
   * IN Plane:
 
 https://github.com/user-attachments/assets/a56052fd-e36a-4824-917c-e312f48f137d
